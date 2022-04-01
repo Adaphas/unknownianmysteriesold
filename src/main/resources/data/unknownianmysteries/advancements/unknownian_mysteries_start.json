@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "unknownian_mysteries_start": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "unknownianmysteries:stonehiddenchestcraft",
+      "unknownianmysteries:unknownian_metal_blast_recipe",
+      "unknownianmysteries:unknownian_metal_smelt_recipe"
+    ]
+  }
+}

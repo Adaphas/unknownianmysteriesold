@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Unknownian Mysteries",
+    "achievementDescription": "Welcome to the mysterious myths of the Unknownians of Old.",
+    "achievementIcon": {
+      "value": "CUSTOM:UnknownianBlockOfMystery"
+    },
+    "background": "bliss_windows_xp.png",
+    "disableDisplay": true,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": true,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "Stonehiddenchestcraft",
+      "UnknownianMetalBlastRecipe",
+      "UnknownianMetalSmeltRecipe"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 1,
+    "achievementType": "task",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"69\" y=\"68\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}
